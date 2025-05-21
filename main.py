@@ -7,3 +7,4 @@ for shop in shopping:
     items += len(shopping[shop])
 print(f"W sumie kupuję {items} produktów.")
 print("zmodyfikowano")
+print("zmodyfikowano2")
