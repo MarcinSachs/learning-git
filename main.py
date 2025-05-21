@@ -8,3 +8,4 @@ for shop in shopping:
 print(f"W sumie kupuję {items} produktów.")
 print("zmodyfikowano")
 print("zmodyfikowano2")
+print("zmodyfikowano3")
